@@ -1,0 +1,4 @@
+name: "ChatBubbles"
+version: "0.1"
+main: "io.github.winnpixie.chatbubbles.ChatBubblesPlugin"
+api-version: 1.21
